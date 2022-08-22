@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 438934968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e46f85daba77566010ea6c195ae7ad70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0e1f61b8d5b5acf58d7fdaf671127c77
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25ed6032f7be4c6abbba190d23638eec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5fc861774284aba438c69fdfc8177804, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Resources/Prefabs/Camp/Fire/\uD654\uB85C.prefab"
+- "Assets/Resources/Prefabs/Camp/Tent/\uC18C\uD615 \uD150\uD2B8.prefab"
+- "Assets/Resources/Prefabs/Camp/Tent/\uC911\uD615 \uD150\uD2B8.prefab"
+- "Assets/Resources/Prefabs/Camp/ETC/\uB79C\uD134.prefab"
+- "Assets/Resources/Prefabs/Camp/Fire/\uCEA0\uD504\uD30C\uC774\uC5B4.prefab"
+- "Assets/Resources/Prefabs/Camp/Table/\uD14C\uC774\uBE14 \uC911\uD615.prefab"
+- "Assets/Resources/Prefabs/Camp/Table/\uD14C\uC774\uBE14 \uC18C\uD615.prefab"
+- "Assets/Resources/Prefabs/Camp/Chair/\uC6B0\uB4DC \uCCB4\uC5B4.prefab"
+- "Assets/Resources/Prefabs/Camp/ETC/\uD574\uBA39.prefab"
+- "Assets/Resources/Prefabs/Camp/Chair/\uBCA4\uCE58.prefab"
+Dependencies: []
