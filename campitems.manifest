@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3184333218
+CRC: 4124922372
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a195bceb12b151e97b0eb0c9da79232a
+    Hash: 6af48a7d8898cbe81b4aaa66bce3a87f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0fac52e5fb892050c2ae50b303789efc
+    Hash: ddc935ee9c44da070b7f0a5b8ce09461
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,14 +25,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 64
-  Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 25ed6032f7be4c6abbba190d23638eec, type: 3}
 - Class: 114
@@ -45,15 +41,15 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- "Assets/Resources/Camp/Fire/\uD654\uB85C.prefab"
-- "Assets/Resources/Camp/Tent/\uC18C\uD615 \uD150\uD2B8.prefab"
-- "Assets/Resources/Camp/Tent/\uC911\uD615 \uD150\uD2B8.prefab"
-- "Assets/Resources/Camp/ETC/\uB79C\uD134.prefab"
-- "Assets/Resources/Camp/Table/\uD14C\uC774\uBE14 \uC911\uD615.prefab"
-- "Assets/Resources/Camp/Fire/\uCEA0\uD504\uD30C\uC774\uC5B4.prefab"
-- "Assets/Resources/Camp/Table/\uD14C\uC774\uBE14 \uC18C\uD615.prefab"
-- "Assets/Resources/Camp/Chair/\uC6B0\uB4DC \uCCB4\uC5B4.prefab"
-- "Assets/Resources/Camp/ETC/\uD574\uBA39.prefab"
-- "Assets/Resources/Camp/Chair/\uBCA4\uCE58.prefab"
+- "Assets/Camp/Fireplace/\uD654\uB85C.prefab"
+- "Assets/Camp/Tent/\uC18C\uD615 \uD150\uD2B8.prefab"
+- "Assets/Camp/Tent/\uC911\uD615 \uD150\uD2B8.prefab"
+- "Assets/Camp/ETC/\uB79C\uD134.prefab"
+- "Assets/Camp/Table/\uD14C\uC774\uBE14 \uC911\uD615.prefab"
+- "Assets/Camp/Fireplace/\uCEA0\uD504\uD30C\uC774\uC5B4.prefab"
+- "Assets/Camp/Table/\uD14C\uC774\uBE14 \uC18C\uD615.prefab"
+- "Assets/Camp/Chair/\uC6B0\uB4DC \uCCB4\uC5B4.prefab"
+- "Assets/Camp/ETC/\uD574\uBA39.prefab"
+- "Assets/Camp/Chair/\uBCA4\uCE58.prefab"
 Dependencies:
 - /Users/horangpark/Desktop/UTopSoft/Unity Projects/grapefruit/Assets/AssetBundles/campitemsmaterial
