@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1707246734
+CRC: 249121278
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5d0a83f53da0eb4318ef9a8042f1a98f
+    Hash: a93f79de69e4556c3f2ed9cc1fd6d9d1
   TypeTreeHash:
     serializedVersion: 2
     Hash: ddc935ee9c44da070b7f0a5b8ce09461
@@ -41,15 +41,15 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- "Assets/Camp_B/ETC/\uD574\uBA39.prefab"
-- "Assets/Camp_B/ETC/\uB79C\uD134.prefab"
-- "Assets/Camp_B/Fireplace/\uCEA0\uD504\uD30C\uC774\uC5B4.prefab"
-- "Assets/Camp_B/Tent/\uC18C\uD615 \uD150\uD2B8.prefab"
-- "Assets/Camp_B/Table/\uD14C\uC774\uBE14 \uC911\uD615.prefab"
-- "Assets/Camp_B/Fireplace/\uD654\uB85C.prefab"
-- "Assets/Camp_B/Chair/\uBCA4\uCE58.prefab"
-- "Assets/Camp_B/Chair/\uC6B0\uB4DC \uCCB4\uC5B4.prefab"
-- "Assets/Camp_B/Table/\uD14C\uC774\uBE14 \uC18C\uD615.prefab"
-- "Assets/Camp_B/Tent/\uC911\uD615 \uD150\uD2B8.prefab"
+- "Assets/Camp Item Prefabs/ETC/\uD574\uBA39.prefab"
+- "Assets/Camp Item Prefabs/ETC/\uB79C\uD134.prefab"
+- "Assets/Camp Item Prefabs/Fireplace/\uCEA0\uD504\uD30C\uC774\uC5B4.prefab"
+- "Assets/Camp Item Prefabs/Tent/\uC18C\uD615 \uD150\uD2B8.prefab"
+- "Assets/Camp Item Prefabs/Table/\uD14C\uC774\uBE14 \uC911\uD615.prefab"
+- "Assets/Camp Item Prefabs/Fireplace/\uD654\uB85C.prefab"
+- "Assets/Camp Item Prefabs/Chair/\uBCA4\uCE58.prefab"
+- "Assets/Camp Item Prefabs/Chair/\uC6B0\uB4DC \uCCB4\uC5B4.prefab"
+- "Assets/Camp Item Prefabs/Table/\uD14C\uC774\uBE14 \uC18C\uD615.prefab"
+- "Assets/Camp Item Prefabs/Tent/\uC911\uD615 \uD150\uD2B8.prefab"
 Dependencies:
 - /Users/horangpark/Desktop/UTopSoft/Unity Projects/grapefruit/Assets/AssetBundles/campitemsmaterial
