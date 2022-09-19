@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 2524076574
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: campitems
+      Dependencies:
+        Dependency_0: campitemsmaterial
+    Info_1:
+      Name: campitemsmaterial
+      Dependencies: {}
