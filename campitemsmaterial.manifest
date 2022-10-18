@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 780666628
+CRC: 771322844
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1280284d4ea57cdd94e93c65c68fc711
+    Hash: 744506fb508ad0f2536f523b2646a04c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 885dc634ab4c36747d9e819c3baf35cf
@@ -18,7 +18,7 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Resources/_From Asset Store/Landscapes/LowpolyStyle/Alpine Woodland/1_FBX/Materials/Main.mat
-- Assets/Resources/Models/Lantern/Lantern.mat
+- Assets/Resources/Models/Camp Items/Lantern/Lantern.mat
 - Assets/Resources/_From Asset Store/Landscapes/Destructible_LowPoly_Park/materials/db_wooden_objects.mat
 - Assets/Resources/_From Asset Store/Landscapes/Destructible_LowPoly_Park/materials/db_camping_objects.mat
 Dependencies: []
