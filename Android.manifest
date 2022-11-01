@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3471036702
+CRC: 3636732717
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -8,4 +8,13 @@ AssetBundleManifest:
         Dependency_0: campitemsmaterial
     Info_1:
       Name: campitemsmaterial
+      Dependencies: {}
+    Info_2:
+      Name: characteritems
+      Dependencies: {}
+    Info_3:
+      Name: characteres
+      Dependencies: {}
+    Info_4:
+      Name: pet
       Dependencies: {}

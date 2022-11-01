@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 510797902
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b254503407779bcfb514ede5e82f35b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e83254175169e988ec1fcf6b49f1b431
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f07b30b534443cbb0438e3ef1685879, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a14a81b6570a84ac5bccfadfeb651098, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Resources/Models/Pets/Prefabs/\uD2B8\uB9AC.prefab"
+Dependencies: []

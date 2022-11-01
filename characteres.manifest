@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2918916838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d95f41f022c6e3ef0fe6697c39e38113
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a560b7f798947600820f9ef2af1860ee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5575bb8b3376e423f856b076ff81d36a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f07b30b534443cbb0438e3ef1685879, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a14a81b6570a84ac5bccfadfeb651098, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Resources/Models/Characters/Prefabs/\uD55C\uACB0.prefab"
+- "Assets/Resources/Models/Characters/Prefabs/\uC628\uC0C8\uBBF8.prefab"
+- "Assets/Resources/Models/Characters/Prefabs/\uC544\uB78C.prefab"
+- "Assets/Resources/Models/Characters/Prefabs/\uC724\uC2AC.prefab"
+- "Assets/Resources/Models/Characters/Prefabs/\uC0DB\uBCC4.prefab"
+- "Assets/Resources/Models/Characters/Prefabs/\uB298\uCC2C.prefab"
+Dependencies: []

@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2633460798
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c5314de4894a2e8429044584a30d59a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 85eb85b7644e87a78ded1cfc141f29de
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Resources/Models/Character Items/Prefabs/Bottom/\uAE34\uBC14\uC9C0 1 (\uB179\uC0C9).prefab"
+- "Assets/Resources/Models/Character Items/Prefabs/Top/\uAE34\uD314\uD2F0 1 (\uB178\uB780\uC0C9).prefab"
+- "Assets/Resources/Models/Character Items/Prefabs/Shoes/\uC2E0\uBC1C 1.prefab"
+- "Assets/Resources/Models/Character Items/Prefabs/Face/\uC548\uACBD 2.prefab"
+- "Assets/Resources/Models/Character Items/Prefabs/Head/\uBAA8\uC790 2.prefab"
+- "Assets/Resources/Models/Character Items/Prefabs/Top/\uAE34\uD314\uD2F0 1 (\uD558\uB298\uC0C9).prefab"
+- "Assets/Resources/Models/Character Items/Prefabs/Face/\uC548\uACBD 1.prefab"
+- "Assets/Resources/Models/Character Items/Prefabs/Top/\uAE34\uD314\uD2F0 1 (\uD30C\uB780\uC0C9).prefab"
+- "Assets/Resources/Models/Character Items/Prefabs/Bottom/\uAE34\uBC14\uC9C0 1 (\uD30C\uB780\uC0C9).prefab"
+- "Assets/Resources/Models/Character Items/Prefabs/Head/\uBAA8\uC790 1.prefab"
+- "Assets/Resources/Models/Character Items/Prefabs/Bottom/\uAE34\uBC14\uC9C0 1 (\uC8FC\uD669\uC0C9).prefab"
+Dependencies: []
