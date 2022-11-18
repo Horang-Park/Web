@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2918916838
+CRC: 2269974472
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d95f41f022c6e3ef0fe6697c39e38113
+    Hash: 7b86a326e8e113b9ccc031d6eca34770
   TypeTreeHash:
     serializedVersion: 2
     Hash: a560b7f798947600820f9ef2af1860ee
@@ -49,10 +49,10 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- "Assets/Resources/Models/Characters/Prefabs/\uD55C\uACB0.prefab"
-- "Assets/Resources/Models/Characters/Prefabs/\uC628\uC0C8\uBBF8.prefab"
-- "Assets/Resources/Models/Characters/Prefabs/\uC544\uB78C.prefab"
-- "Assets/Resources/Models/Characters/Prefabs/\uC724\uC2AC.prefab"
-- "Assets/Resources/Models/Characters/Prefabs/\uC0DB\uBCC4.prefab"
-- "Assets/Resources/Models/Characters/Prefabs/\uB298\uCC2C.prefab"
+- Assets/Asset Resources/Models/Characters/Prefabs/AI_01_01_003.prefab
+- Assets/Asset Resources/Models/Characters/Prefabs/AI_01_02_001.prefab
+- Assets/Asset Resources/Models/Characters/Prefabs/AI_01_01_001.prefab
+- Assets/Asset Resources/Models/Characters/Prefabs/AI_01_02_002.prefab
+- Assets/Asset Resources/Models/Characters/Prefabs/AI_01_02_003.prefab
+- Assets/Asset Resources/Models/Characters/Prefabs/AI_01_01_002.prefab
 Dependencies: []

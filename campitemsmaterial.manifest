@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1470093507
+CRC: 900230588
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 744506fb508ad0f2536f523b2646a04c
+    Hash: b36cfc35a4d7a990bd2b59355da10e39
   TypeTreeHash:
     serializedVersion: 2
     Hash: 661b9e997c931501d0e4861c1d933db7
@@ -17,8 +17,8 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Resources/_From Asset Store/Landscapes/LowpolyStyle/Alpine Woodland/1_FBX/Materials/Main.mat
-- Assets/Resources/Models/Camp Items/Lantern/Lantern.mat
-- Assets/Resources/_From Asset Store/Landscapes/Destructible_LowPoly_Park/materials/db_wooden_objects.mat
-- Assets/Resources/_From Asset Store/Landscapes/Destructible_LowPoly_Park/materials/db_camping_objects.mat
+- Assets/Asset Resources/_From Asset Store/Landscapes/LowpolyStyle/Alpine Woodland/1_FBX/Materials/Main.mat
+- Assets/Asset Resources/Models/Camp Items/Lantern/Lantern.mat
+- Assets/Asset Resources/_From Asset Store/Landscapes/Destructible_LowPoly_Park/materials/db_wooden_objects.mat
+- Assets/Asset Resources/_From Asset Store/Landscapes/Destructible_LowPoly_Park/materials/db_camping_objects.mat
 Dependencies: []

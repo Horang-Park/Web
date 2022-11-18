@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 510797902
+CRC: 180368729
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b254503407779bcfb514ede5e82f35b3
+    Hash: 22280b77bef9d920a11dba0ac3abc043
   TypeTreeHash:
     serializedVersion: 2
     Hash: e83254175169e988ec1fcf6b49f1b431
@@ -39,5 +39,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- "Assets/Resources/Models/Pets/Prefabs/\uD2B8\uB9AC.prefab"
+- Assets/Asset Resources/Models/Pets/Prefabs/PE_01_01_005.prefab
+- Assets/Asset Resources/Models/Pets/Prefabs/PE_01_01_003.prefab
 Dependencies: []
